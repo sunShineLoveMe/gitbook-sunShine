@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96ea2af-3555-44a5-a781-edb706c7f599" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/DeFi-docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" beforeDir="false" afterPath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-highlight/ebook.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/gitbook/gitbook-plugin-livereload/plugin.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SUMMARY.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609401977961</updated>
-      <workItem from="1609401982894" duration="1125000" />
+      <workItem from="1609401982894" duration="1804000" />
     </task>
     <servers />
   </component>
