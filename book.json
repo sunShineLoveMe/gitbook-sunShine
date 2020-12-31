@@ -1,0 +1,31 @@
+{
+  "root": "./docs",
+  "language" : "zh-hans",
+  "styles": {
+    "website": "./styles/website.css"
+  },
+  "plugins": [
+  ],
+  "pluginsConfig": {
+    "hide-element": {
+      "elements": [
+        ".gitbook-link"
+      ]
+    },
+    "insert-logo": {
+      "url": "./images/logo.png",
+      "style": "background: none; max-height: 60px; min-height: 50px"
+    },
+    "favicon": "./images/favicon.ico",
+    "sharing": {
+      "twitter": false,
+      "facebook": false,
+      "google": false
+    },
+    "tbfed-pagefooter": {
+      "copyright":"北京科技XXX公司版权所有",
+      "modify_label":"该文章修订时间：",
+      "modify_format": "YYYY-MM-DD HH:mm:ss"
+    }
+  }
+}
