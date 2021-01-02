@@ -9,4 +9,5 @@
 
 *   2021年投资建议
     * [3.1投资原则](Vest-docs/Vest-Prin.md)
+    * [3.2 2021投资展望](Vest-docs/Vest-Ad.md)
 

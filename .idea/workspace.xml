@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f96ea2af-3555-44a5-a781-edb706c7f599" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/Vest-docs/Vest-Prin.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/DeFi-docs/DeFi-Summary.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/DeFi-docs/DeFi-Summary.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/DeFi-docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/DeFi-docs/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_book/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_book/search_index.json" beforeDir="false" afterPath="$PROJECT_DIR$/_book/search_index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Vest-docs/Vest-Ad.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/SUMMARY.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/SUMMARY.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609401977961</updated>
-      <workItem from="1609401982894" duration="6742000" />
+      <workItem from="1609401982894" duration="7005000" />
     </task>
     <servers />
   </component>
